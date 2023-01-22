@@ -1,0 +1,5 @@
+This is text to test a new project on Ruby
+
+There is nothing to worry about.
+
+So, maybe I will check if there is ruby, or, I could check for text
