@@ -1,6 +1,6 @@
 def search(key)
     result = {}
-    Dir.glob("*.text") do |filename|
+    Dir.glob("*.txt") do |filename|
         f = File.open(filename)
         f.each_with_index do |line, index|
             if line.include?(key)
